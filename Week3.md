@@ -41,13 +41,13 @@ A way to analyze and understand existing digital ecosystems and design new ones.
 
 [Communality, Collaboration, Continuity, Complementarity]
 
-**Communality**: Sequential interaction involving several users.
+**Communality**: (集体性) Sequential interaction involving several users.
 
-**Collaboration**: Simultaneous interaction by many users.
+**Collaboration**: (合作) Simultaneous interaction by many users.
 
-**Continuity**: Sequential interaction involving several artifacts.
+**Continuity**: (连续) Sequential interaction involving several artifacts.
 
-**Complementarity**: Simultaneous interaction with multiple artifacts.
+**Complementarity**: (补充) Simultaneous interaction with multiple artifacts.
 
 Each of them has 2 principles.
 
