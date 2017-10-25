@@ -13,7 +13,7 @@ Making computers can be carried wherever we go.  The devices each had their own 
 
 ### Connectivity: 
 
-Allow users to be online and communicate via wireless data networks. Mobile phones become the main stream. The appearance of WAP (Wireless Application Protocol). In 1991, Global System for Mobile Communications (GSM) included the Short Message Service (SMS). 
+Allow users to be online and communicate via wireless data networks. Mobile phones become the main stream. Multiply type and T9 keyboard. The appearance of WAP (Wireless Application Protocol). In 1991, Global System for Mobile Communications (GSM) included the Short Message Service (SMS). 
 
 ### Convergence: 
 
@@ -43,7 +43,7 @@ A way to analyze and understand existing digital ecosystems and design new ones.
 
 **Communality**: Sequential interaction involving several users.
 
-**Collaboration**: Simultaneous interation by many users.
+**Collaboration**: Simultaneous interaction by many users.
 
 **Continuity**: Sequential interaction involving several artifacts.
 
