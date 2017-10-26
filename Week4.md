@@ -58,13 +58,15 @@ No lag
 Tunable trade-off between model and measurement.
 Uncertainty estimate
 
+DIA:
+
 parameters are not intuitive
 Overshooting
 
-Bayesian
-**Gaussian**
+Bayesian: use Bayesian rule to estimate the possibility. 
+**Gaussian**: noisy distribute is Gaussian
 **Linear**
-Online
+Online: no lag
 
 
 
@@ -72,11 +74,13 @@ Online
 
 Bayesian
 
-Gaussian or not
+Gaussian or not, do not have to be
 
-Linear ot not
+Linear or not
 
 Online
+
+
 
 General
 
@@ -86,7 +90,7 @@ Great results
 
 Memory usage
 
-Slow
+Slow, expensive, higher memory
 
 <br />
 
@@ -96,10 +100,10 @@ Slow
 
 <br />
 
-|               Mean/Median                |                  Kalman                  | Particle |
-| :--------------------------------------: | :--------------------------------------: | :------: |
-| Easy to implement, Efficient, great cost-benefit |                                          |          |
-|         Laggy, No dynamic model          | parameters are not intuitive; Overshooting;  Bayesian; **Gaussian**; **Linear**; Online |          |
+|               Mean/Median                |                  Kalman                  |                 Particle                 |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| Easy to implement, Efficient, great cost-benefit | Dynamic model; uncertainty estimate; No lag; Tunable trade-off between model and measurement. | General; Continuous or discrete vars; great result |
+|         Laggy, No dynamic model          | parameters are not intuitive; Overshooting;  Bayesian; **Gaussian**; **Linear**; Online |                   slow                   |
 
 
 
