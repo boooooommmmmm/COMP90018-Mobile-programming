@@ -54,18 +54,25 @@ underlying velocity
 Storing the velocities
 
 Dynamic model of the system
+
 No lag
+
 Tunable trade-off between model and measurement.
+
 Uncertainty estimate
 
 DIA:
 
 parameters are not intuitive
+
 Overshooting
 
 Bayesian: use Bayesian rule to estimate the possibility. 
+
 **Gaussian**: noisy distribute is Gaussian
+
 **Linear**
+
 Online: no lag
 
 
@@ -102,7 +109,7 @@ Slow, expensive, higher memory
 
 |               Mean/Median                |                  Kalman                  |                 Particle                 |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| Easy to implement, Efficient, great cost-benefit | Dynamic model; uncertainty estimate; No lag; Tunable trade-off between model and measurement. | General; Continuous or discrete vars; great result |
+| Easy to implement, Efficient, great cost-benefit | Dynamic model; uncertainty estimate; No lag; Tunable trade-off between model and measurement. | General; Continuous or discrete vars; **great result** |
 |         Laggy, No dynamic model          | parameters are not intuitive; Overshooting;  Bayesian; **Gaussian**; **Linear**; Online |                   slow                   |
 
 
