@@ -6,11 +6,10 @@ Responses
 * Visceral: The subconscious reaction based on appearance. {Look, Feel, Sound} (What you think when you **first time see**/hear/sound about it)
 * Behavioural: The reaction that stems from the ease of difficulty of **use**. {Function, Understandability, Usability, Physical feel}(You need to use it for a while)
 * Reflective: The reaction that derives from **self-image**, experience and memories.(脑补出来的)
-  <br>
 
 <br>
 
-### HCD-Human Centered Design
+### HCD-Human Cantered Design
 Shared value
 * Desirability: Wishes of stakeholders                          //Do they want this?
 * Feasibility: Your ability to deliver                               //Can we do this?
@@ -87,7 +86,7 @@ When all these three value are matched, you have shared value with stakeholders.
   * lab / in-the-wild
     <br>
 
-Cultural probes (or design probes) is a technique used to inspire ideas in a design process. The aim is to elicit inspirational responses from people, in order to understand their culture, thoughts and values better, and thus stimulate designer's imaginations.
+Cultural probes (or design probes) is a technique used to inspire ideas in a design process. The aim is to **elicit inspirational responses** from people, in order to understand their culture, thoughts and values better, and thus stimulate designer's imaginations.
 
 
 
