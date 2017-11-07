@@ -42,7 +42,7 @@ When all these three value are matched, you have shared value with stakeholders.
   <br>
   <br>
 
-### Research methods
+## Research methods
 * Looking - context is important 
     * Ethnography - image you are users themselves, get the first hand information about how their context looks like.
     * Shadowing - cheaper than Ethnography. Follow closely to a people over a period of time. data management, generate a lot of data. 

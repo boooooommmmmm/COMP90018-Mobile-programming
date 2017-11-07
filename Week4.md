@@ -14,7 +14,7 @@ Create the window of a given size, wait till window full, each value will be rep
 Two problems: 
 
 1. wait till window full -> delay of the computation. 
-2. No sharp edges. -> Highly outliers data will effect the accuracy?
+2. No sharp edges. -> Highly outliers data will effect the accuracy
 
 
 ### Weighted Mean Filter
