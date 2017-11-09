@@ -9,8 +9,8 @@ Responses
 
 <br>
 
-### HCD-Human Cantered Design
-Shared value
+### HCD-Human Centred Design
+**Shared value**
 * Desirability: Wishes of stakeholders                          //Do they want this?
 * Feasibility: Your ability to deliver                               //Can we do this?
 * Viability: Whether you should even start the project  //Should we do this?

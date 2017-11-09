@@ -54,7 +54,7 @@ Each of them has 2 principles.
 
 |              | Many Users                               | Many artifacts                           |
 | ------------ | ---------------------------------------- | ---------------------------------------- |
-| sequential   | **Communality**  <br/>  1. **Personalization** <br/>  the artifact is personalized to each user <br/>  2. **Generalization** <br/>  the artifact allows different users to immediately interact without any knowledge of their identity | **Continuity** <br/>   1. **synchronization** <br/>  a user’s data is synchronized across artifacts <br/>  2. **migration** <br/>  the state of a user’s activity is migrated from one artifact to another |
+| sequential   | **Communality**  <br/>  1. **Personalization** <br/>  the artifact is personalized to each user. -> Facebook index page. <br/>  2. **Generalization** <br/>  the artifact allows different users to immediately interact without any knowledge of their identity -> ATM | **Continuity** <br/>   1. **synchronization** <br/>  a user’s data is synchronized across artifacts <br/>  2. **migration** <br/>  the state of a user’s activity is migrated from one artifact to another |
 | simultaneous | **Collaboration** <br/> 1. **division** <br/>  the artifact is divided into independent sections and each user can interact with it simultaneously <br/>  2. **merging** <br/>  the artifact merges all users’ interaction | **Complementarity**  <br/> 1. **extension**  <br/>  interaction with an artifact is extended to  another  <br/> 2. **remote control** <br/>  one artifact is used to control another |
 
 Case Studies

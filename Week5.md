@@ -18,6 +18,10 @@ Relevant of interaction between user and application.
 
 What the activity the user behaving
 
+<br />
+
+## Characters of HAR (Human active recognition)
+
 #### Execution
 
 Online -> give feedback at real time
