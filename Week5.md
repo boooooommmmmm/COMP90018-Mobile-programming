@@ -12,7 +12,7 @@ Relevant of interaction between user and application.
 * Context augmentation -> Google album create the album based on where you take the picture.
 * Context-aware configuration -> Auto configure: using printer, choose the closest computer.
 * Context-triggered action -> lighting change
-* Contextual adoption of the environment
+* Contextual adoption of the environment 
 * Contextual mediation
 * Context-aware presentation -> phone models change when context change.
 
